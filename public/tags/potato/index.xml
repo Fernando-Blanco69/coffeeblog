@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Potato on ExampleSite</title>
+    <link>http://localhost:1313/tags/potato/</link>
+    <description>Recent content in Potato on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/potato/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Potato</title>
+      <link>http://localhost:1313/posts/hola-bb/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hola-bb/</guid>
+      <description>&lt;h1 id=&#34;hola-bb-parte-2&#34;&gt;Hola BB parte 2&lt;/h1&gt;
+&lt;h2 id=&#34;hola-bb-parte-3&#34;&gt;Hola BB parte 3&lt;/h2&gt;
+&lt;p&gt;Hola bebe queloque&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
